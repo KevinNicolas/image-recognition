@@ -1,1 +1,3 @@
-// Entry file
+import { app } from './app'
+
+app()
